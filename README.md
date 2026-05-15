@@ -115,6 +115,13 @@ pip install -r requirements.txt
 
 ---
 
+## Visualisations
+
+![Class Distribution](images/class_distribution.png)
+![Confusion Matrix](images/confusion_matrix.png)
+![ROC Curve](images/roc_curve.png)
+![Amount Distribution](images/amount_distribution.png)
+
 ## 🔮 Future Improvements
 
 - Try other algorithms (Random Forest, XGBoost, Neural Networks)
